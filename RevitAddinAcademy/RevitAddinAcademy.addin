@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitAddinAcademy</Text>
+    <Description>Some description for RevitAddinAcademy</Description>
+    <Assembly>RevitAddinAcademy.dll</Assembly>
+    <FullClassName>RevitAddinAcademy.Command</FullClassName>
+    <ClientId>c36b54ac-3a50-4d42-884c-d2ea5f79e962</ClientId>
+    <VendorId>com.typepad.MonInc</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitAddinAcademy</Name>
+    <Assembly>RevitAddinAcademy.dll</Assembly>
+    <FullClassName>RevitAddinAcademy.App</FullClassName>
+    <ClientId>7c5d8d0a-1dbc-43f9-b7ff-70451e152336</ClientId>
+    <VendorId>com.typepad.MonInc</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

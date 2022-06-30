@@ -1,0 +1,6 @@
+C:\Users\paul_\source\repos\RevitAddinAcademy\RevitAddinAcademy\bin\Debug\RevitAddinAcademy.dll
+C:\Users\paul_\source\repos\RevitAddinAcademy\RevitAddinAcademy\bin\Debug\RevitAddinAcademy.pdb
+C:\Users\paul_\source\repos\RevitAddinAcademy\RevitAddinAcademy\obj\Debug\RevitAddinAcademy.csproj.AssemblyReference.cache
+C:\Users\paul_\source\repos\RevitAddinAcademy\RevitAddinAcademy\obj\Debug\RevitAddinAcademy.csproj.CoreCompileInputs.cache
+C:\Users\paul_\source\repos\RevitAddinAcademy\RevitAddinAcademy\obj\Debug\RevitAddinAcademy.dll
+C:\Users\paul_\source\repos\RevitAddinAcademy\RevitAddinAcademy\obj\Debug\RevitAddinAcademy.pdb
